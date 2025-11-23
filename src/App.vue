@@ -7,6 +7,7 @@
 
 <template>
   <div>
+    <label >https 테스트</label>
     <button v-on:click="move">무브무브</button>
   </div>
 </template>
